@@ -97,6 +97,7 @@
     - Reverse the array items of part B from position n-r to n-1.
     - Now, reverse the entire resulting array to get the left rotated array.    
      <br> 
+     
     ### **Agorithm :**
 
     ```
